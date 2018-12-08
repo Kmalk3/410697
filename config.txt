@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= L!
+game= L!help
+stayinchannel=true
+songinstatus=true 
+token=NTIwOTEwNTMyNjAyMTAxNzgw.Du0vhA.QUWpXczWufEaGzFclQALaw_HCyU
+owner=476001917009395712
